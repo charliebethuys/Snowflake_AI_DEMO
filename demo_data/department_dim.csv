@@ -1,32 +1,32 @@
 department_key,department_name
-10,Finance
-11,Accounting
-12,Treasury
-13,Tax
-14,Audit
-15,Financial Planning
-16,Procurement
-17,Legal
-18,Compliance
-19,Risk Management
-20,Sales
-21,Business Development
-22,Customer Success
-23,Sales Operations
-24,Channel Partners
-25,Sales Engineering
-26,Account Management
-27,Inside Sales
-28,Field Sales
-29,Sales Support
-30,Marketing
-31,Digital Marketing
-32,Content Marketing
-33,Product Marketing
-34,Brand Marketing
-35,Event Marketing
-36,Market Research
-37,Public Relations
-38,Social Media
-39,Marketing Operations
-40,HR
+10,Direction Generale
+11,Editorial
+12,Fabrication
+13,Commercial
+14,Marketing et Communication
+15,Droits et Juridique
+16,Finance et Comptabilite
+17,Ressources Humaines
+18,Numerique et Digital
+19,Logistique
+20,Relations Presse
+21,Droits Etrangers
+22,Design et Maquette
+23,Correction et Relecture
+24,Service Clients
+25,Direction Artistique
+26,Achats
+27,Informatique
+28,Audiovisuel et Podcast
+29,Evenementiel
+30,Comptabilite Auteurs
+31,Gestion des Stocks
+32,E-commerce
+33,Bibliotheque Interne
+34,Qualite
+35,Formation
+36,Innovation
+37,Partenariats
+38,Abonnements
+39,Archives
+40,Contentieux

@@ -1,101 +1,101 @@
 product_key,product_name,category_key,category_name,vertical
-1,Obrien-Williams Storage,4,Hardware,Tech
-2,"Miller, Smith and Ford Switch",4,Hardware,Tech
-3,Tran Group Conveyor,5,Machinery,Manufacturing
-4,Schultz Group Plastic Pellets,6,Raw Materials,Manufacturing
-5,Miller-Adams Server,4,Hardware,Tech
-6,Hardy-Huang Plastic Pellets,6,Raw Materials,Manufacturing
-7,Daniel LLC Camera,1,Electronics,Retail
-8,Archer-Blackwell Laptop,1,Electronics,Retail
-9,Daniel and Sons Dress,2,Apparel,Retail
-10,Farmer LLC ERP,3,SaaS,Tech
-11,Young PLC Analytics,3,SaaS,Tech
-12,Miller-Roth Jacket,2,Apparel,Retail
-13,"Mcdonald, Johnson and Fitzgerald Laptop",1,Electronics,Retail
-14,"Krueger, Townsend and Palmer Server",4,Hardware,Tech
-15,Jones-Parker Jacket,2,Apparel,Retail
-16,Oneal-Obrien Server,4,Hardware,Tech
-17,Mullen Ltd TV,1,Electronics,Retail
-18,"Hansen, Hayes and Sparks Laptop",1,Electronics,Retail
-19,"Wilson, Cabrera and Jones Analytics",3,SaaS,Tech
-20,Phillips Ltd Jeans,2,Apparel,Retail
-21,"Wiley, Smith and Russell Drill",5,Machinery,Manufacturing
-22,"Johnson, Koch and Ross Conveyor",5,Machinery,Manufacturing
-23,Long and Sons Switch,4,Hardware,Tech
-24,Mathis Inc Tablet,1,Electronics,Retail
-25,"Higgins, Short and Wilson T-shirt",2,Apparel,Retail
-26,"Dixon, Parker and Moyer ERP",3,SaaS,Tech
-27,Stewart Ltd Laptop,1,Electronics,Retail
-28,"Thomas, Melton and Reeves Steel Rods",6,Raw Materials,Manufacturing
-29,Ruiz-Martin HR Suite,3,SaaS,Tech
-30,Freeman-Myers TV,1,Electronics,Retail
-31,Whitehead PLC Switch,4,Hardware,Tech
-32,Martinez Group Compressor,5,Machinery,Manufacturing
-33,Howe LLC T-shirt,2,Apparel,Retail
-34,Goodwin Ltd Workstation,4,Hardware,Tech
-35,Douglas and Sons Drill,5,Machinery,Manufacturing
-36,Barber Inc Speaker,1,Electronics,Retail
-37,Wise LLC Tablet,1,Electronics,Retail
-38,"Burnett, Alexander and Malone Compressor",5,Machinery,Manufacturing
-39,"Jones, English and Hawkins Laptop",1,Electronics,Retail
-40,Griffin Inc Plastic Pellets,6,Raw Materials,Manufacturing
-41,Andrews Ltd Tablet,1,Electronics,Retail
-42,"Booth, Williams and Silva Copper Wire",6,Raw Materials,Manufacturing
-43,Cruz PLC Aluminum Sheets,6,Raw Materials,Manufacturing
-44,Lopez-Shaffer HR Suite,3,SaaS,Tech
-45,Davis-Keith T-shirt,2,Apparel,Retail
-46,Diaz-Anderson Aluminum Sheets,6,Raw Materials,Manufacturing
-47,Vega Group Smartphone,1,Electronics,Retail
-48,Thomas and Sons CRM,3,SaaS,Tech
-49,Peterson-Hernandez Laptop,1,Electronics,Retail
-50,Moreno-Martinez Press,5,Machinery,Manufacturing
-51,Hernandez-Taylor T-shirt,2,Apparel,Retail
-52,"Montgomery, Murphy and Olson Workstation",4,Hardware,Tech
-53,Haney-Larson HR Suite,3,SaaS,Tech
-54,"Bird, Davidson and Malone Compressor",5,Machinery,Manufacturing
-55,Cunningham-Stewart Steel Rods,6,Raw Materials,Manufacturing
-56,Collier-Evans HR Suite,3,SaaS,Tech
-57,Davis and Sons Jacket,2,Apparel,Retail
-58,Hall Group Drill,5,Machinery,Manufacturing
-59,Dickerson-Williams Router,4,Hardware,Tech
-60,Richardson-Becker Tablet,1,Electronics,Retail
-61,Dixon-Valdez Conveyor,5,Machinery,Manufacturing
-62,"Davis, Hinton and Lee Hat",2,Apparel,Retail
-63,Baxter PLC Router,4,Hardware,Tech
-64,Fitzgerald-Carr Router,4,Hardware,Tech
-65,Lewis LLC TV,1,Electronics,Retail
-66,Melton Group ERP,3,SaaS,Tech
-67,Gonzales and Sons HR Suite,3,SaaS,Tech
-68,Blair-Aguilar Copper Wire,6,Raw Materials,Manufacturing
-69,Zavala-Glover Conveyor,5,Machinery,Manufacturing
-70,Garcia PLC Conveyor,5,Machinery,Manufacturing
-71,"Villegas, Shepard and Wells Jeans",2,Apparel,Retail
-72,George Inc Sneakers,2,Apparel,Retail
-73,Estrada Group Copper Wire,6,Raw Materials,Manufacturing
-74,Sherman-Smith Switch,4,Hardware,Tech
-75,Robinson LLC Workstation,4,Hardware,Tech
-76,"Gonzales, Gallagher and Huang ERP",3,SaaS,Tech
-77,"Ball, Parker and Jensen Sneakers",2,Apparel,Retail
-78,"Adams, Newton and Kelly Workstation",4,Hardware,Tech
-79,Bryant-Lawson Plastic Pellets,6,Raw Materials,Manufacturing
-80,Lewis and Sons Drill,5,Machinery,Manufacturing
-81,Bailey Group Copper Wire,6,Raw Materials,Manufacturing
-82,Hall Ltd Speaker,1,Electronics,Retail
-83,Graves-Hall Hat,2,Apparel,Retail
-84,Smith-Carroll Lathe,5,Machinery,Manufacturing
-85,Holloway-Stafford Drill,5,Machinery,Manufacturing
-86,"Whitehead, Parks and Cuevas Aluminum Sheets",6,Raw Materials,Manufacturing
-87,Wiley PLC Hat,2,Apparel,Retail
-88,Collins Group Steel Rods,6,Raw Materials,Manufacturing
-89,Barber Ltd Lathe,5,Machinery,Manufacturing
-90,"Garcia, Lopez and Morgan Jacket",2,Apparel,Retail
-91,"Harris, Nielsen and Wilson Storage",4,Hardware,Tech
-92,Ramos-Benton Compressor,5,Machinery,Manufacturing
-93,Smith LLC Conveyor,5,Machinery,Manufacturing
-94,Williams-Wilson Press,5,Machinery,Manufacturing
-95,"Cannon, Garcia and Arroyo Tablet",1,Electronics,Retail
-96,Clayton Group CRM,3,SaaS,Tech
-97,"Hamilton, Olsen and Oconnor Compressor",5,Machinery,Manufacturing
-98,"Matthews, Smith and Bennett Analytics",3,SaaS,Tech
-99,"Davis, Cox and Pierce Analytics",3,SaaS,Tech
-100,Cooper-Allen Hat,2,Apparel,Retail
+1,Les Ombres du Temps,1,Roman,Litterature
+2,Le Dernier Voyage,2,Essai,Litterature
+3,Eclats de Lune,3,Jeunesse,Jeunesse
+4,La Maison Bleue,4,Bande Dessinee,Jeunesse
+5,Le Silence des Forets,5,Manuel Scolaire,Education
+6,Sous le Ciel Etoile,6,Universitaire,Education
+7,Le Jardin Secret,1,Roman,Litterature
+8,Les Murmures de la Nuit,2,Essai,Litterature
+9,La Route du Nord,3,Jeunesse,Jeunesse
+10,Le Chant des Oiseaux,4,Bande Dessinee,Jeunesse
+11,Memoires d un Chat,5,Manuel Scolaire,Education
+12,L Ile aux Mysteres,6,Universitaire,Education
+13,Le Pont des Soupirs,1,Roman,Litterature
+14,Les Enfants de la Mer,2,Essai,Litterature
+15,La Danse des Saisons,3,Jeunesse,Jeunesse
+16,Le Livre des Reves,4,Bande Dessinee,Jeunesse
+17,Contes du Vieux Monde,5,Manuel Scolaire,Education
+18,La Couleur du Vent,6,Universitaire,Education
+19,Histoires Fantastiques,1,Roman,Litterature
+20,Le Secret de la Tour,2,Essai,Litterature
+21,Aventures en Foret,3,Jeunesse,Jeunesse
+22,Le Petit Astronaute,4,Bande Dessinee,Jeunesse
+23,La Fee des Etoiles,5,Manuel Scolaire,Education
+24,Le Dragon Bleu,6,Universitaire,Education
+25,Histoires pour Dormir,1,Roman,Litterature
+26,Le Tresor du Pirate,2,Essai,Litterature
+27,La Princesse des Neiges,3,Jeunesse,Jeunesse
+28,Le Robot Curieux,4,Bande Dessinee,Jeunesse
+29,Voyage au Centre,5,Manuel Scolaire,Education
+30,Les Animaux Parlants,6,Universitaire,Education
+31,Introduction a la Philosophie,1,Roman,Litterature
+32,Mathematiques Avancees,2,Essai,Litterature
+33,Histoire de France,3,Jeunesse,Jeunesse
+34,Sciences de la Vie,4,Bande Dessinee,Jeunesse
+35,Geographie Mondiale,5,Manuel Scolaire,Education
+36,Physique Quantique,6,Universitaire,Education
+37,Chimie Organique,1,Roman,Litterature
+38,Economie Politique,2,Essai,Litterature
+39,Droit Constitutionnel,3,Jeunesse,Jeunesse
+40,Sociologie Generale,4,Bande Dessinee,Jeunesse
+41,Manuel de Francais CE1,5,Manuel Scolaire,Education
+42,Manuel de Maths CM2,6,Universitaire,Education
+43,Cahier d Exercices CP,1,Roman,Litterature
+44,Atlas Junior,2,Essai,Litterature
+45,Mon Premier Dictionnaire,3,Jeunesse,Jeunesse
+46,Grammaire Illustree,4,Bande Dessinee,Jeunesse
+47,Sciences CM1,5,Manuel Scolaire,Education
+48,Histoire-Geo CE2,6,Universitaire,Education
+49,Anglais 6eme,1,Roman,Litterature
+50,Cahier de Vacances,2,Essai,Litterature
+51,L Art de la Guerre Moderne,3,Jeunesse,Jeunesse
+52,Philosophie du Bonheur,4,Bande Dessinee,Jeunesse
+53,La Societe Numerique,5,Manuel Scolaire,Education
+54,Ecologie et Avenir,6,Universitaire,Education
+55,Pensees Libres,1,Roman,Litterature
+56,Le Monde d Hier,2,Essai,Litterature
+57,Voyage en Absurdie,3,Jeunesse,Jeunesse
+58,Reflexions Nocturnes,4,Bande Dessinee,Jeunesse
+59,L Esprit du Lieu,5,Manuel Scolaire,Education
+60,Essai sur la Liberte,6,Universitaire,Education
+61,Super-Heros Academy,1,Roman,Litterature
+62,Les Chroniques de Zara,2,Essai,Litterature
+63,Manga des Quatre Vents,3,Jeunesse,Jeunesse
+64,BD Historique Vol.1,4,Bande Dessinee,Jeunesse
+65,Comics Urbains,5,Manuel Scolaire,Education
+66,L Aventure Spatiale BD,6,Universitaire,Education
+67,Mysteres en BD,1,Roman,Litterature
+68,Humour et Caricatures,2,Essai,Litterature
+69,BD Animaliere,3,Jeunesse,Jeunesse
+70,Les Legendes Nordiques BD,4,Bande Dessinee,Jeunesse
+71,La Nuit Eternelle,5,Manuel Scolaire,Education
+72,Le Passeur d Ames,6,Universitaire,Education
+73,Renaissance,1,Roman,Litterature
+74,L Horloge Inversee,2,Essai,Litterature
+75,Fragments de Vie,3,Jeunesse,Jeunesse
+76,Le Cercle des Poetes,4,Bande Dessinee,Jeunesse
+77,Amour et Chaos,5,Manuel Scolaire,Education
+78,La Valse des Ombres,6,Universitaire,Education
+79,Le Gardien du Phare,1,Roman,Litterature
+80,Terre Promise,2,Essai,Litterature
+81,Biologie Cellulaire,3,Jeunesse,Jeunesse
+82,Algebre Lineaire,4,Bande Dessinee,Jeunesse
+83,Thermodynamique,5,Manuel Scolaire,Education
+84,Litterature Comparee,6,Universitaire,Education
+85,Psychologie Cognitive,1,Roman,Litterature
+86,Linguistique Generale,2,Essai,Litterature
+87,Anthropologie Culturelle,3,Jeunesse,Jeunesse
+88,Statistiques Appliquees,4,Bande Dessinee,Jeunesse
+89,Marketing Digital,5,Manuel Scolaire,Education
+90,Gestion de Projet,6,Universitaire,Education
+91,Le Monde des Dinosaures,1,Roman,Litterature
+92,Premiere Lecture,2,Essai,Litterature
+93,Contes Africains,3,Jeunesse,Jeunesse
+94,Comptines et Chansons,4,Bande Dessinee,Jeunesse
+95,L Imagier des Animaux,5,Manuel Scolaire,Education
+96,Je Decouvre les Sciences,6,Universitaire,Education
+97,Mon Cahier Nature,1,Roman,Litterature
+98,Histoires du Soir,2,Essai,Litterature
+99,Le Petit Prince des Etoiles,3,Jeunesse,Jeunesse
+100,Jeux et Enigmes,4,Bande Dessinee,Jeunesse

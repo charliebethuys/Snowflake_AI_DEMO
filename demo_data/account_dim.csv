@@ -1,4 +1,4 @@
 account_key,account_name,account_type
-1,Revenue,Income
-2,Expenses,Expense
-3,COGS,Expense 
+1,Chiffre Affaires Livres,Revenu
+2,Charges Exploitation,Depense
+3,Cout de Production,Depense
