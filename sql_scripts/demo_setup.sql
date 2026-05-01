@@ -838,7 +838,8 @@ select
 
     
     from directory(@SF_AI_DEMO.DEMO_SCHEMA.INTERNAL_DATA_STAGE) 
-where relative_path ilike 'unstructured_docs/%.pdf' ;
+where relative_path ilike 'unstructured_docs/%.pdf'
+   or relative_path ilike 'unstructured_docs/%.md' ;
 
 
     -- Switch to admin role for remaining operations
@@ -910,6 +911,23 @@ where relative_path ilike 'unstructured_docs/%.pdf' ;
                 content
             FROM parsed_content
             WHERE relative_path ilike '%/sales/%'
+        );
+
+    -- Create search service for product documents (fiches produits)
+    CREATE OR REPLACE CORTEX SEARCH SERVICE Search_product_docs
+        ON content
+        ATTRIBUTES relative_path, file_url, title
+        WAREHOUSE = SNOW_INTELLIGENCE_DEMO_WH
+        TARGET_LAG = '30 day'
+        EMBEDDING_MODEL = 'snowflake-arctic-embed-l-v2.0'
+        AS (
+            SELECT
+                relative_path,
+                file_url,
+                REGEXP_SUBSTR(relative_path, '[^/]+$') as title,
+                content
+            FROM parsed_content
+            WHERE relative_path ilike '%/products/%'
         );
 
 
